@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202491860676",
+    "project_id": "alan-firestore",
+    "storage_bucket": "alan-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202491860676:android:99a3408a4d93afedb91b91",
+        "android_client_info": {
+          "package_name": "com.f55119109.adi_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202491860676-umnai2dk65291ou4k4184ch7vgs535mq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS6v5AqNGZAad5oPJxpfN-mFTZZuwbxf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202491860676-umnai2dk65291ou4k4184ch7vgs535mq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
